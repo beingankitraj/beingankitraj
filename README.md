@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @beingankitraj
-- 👀 I’m interested in ... Basketball 
 - 🌱 I’m currently learning ... Java and Python
 - 💞️ I’m looking to collaborate on ... Google
 - 📫 How to reach me ... ankit0raj001@gmail.com
